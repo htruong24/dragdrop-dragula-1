@@ -1,0 +1,19 @@
+{
+  "name": "dragdrop-dragula",
+  "version": "1.0.0",
+  "description": "custom position when drag element",
+  "main": "dragula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungliem87/dragdrop-dragula.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trungliem87/dragdrop-dragula/issues"
+  },
+  "homepage": "https://github.com/trungliem87/dragdrop-dragula#readme"
+}
