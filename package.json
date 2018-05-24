@@ -1,8 +1,8 @@
 {
   "name": "dragdrop-dragula-2",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "custom position when drag element",
-  "main": "dist/dragula.js",
+  "main": "dragula.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
