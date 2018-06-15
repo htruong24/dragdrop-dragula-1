@@ -1,6 +1,6 @@
 {
   "name": "dragdrop-dragula-2",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "custom position when drag element",
   "main": "dragula.js",
   "scripts": {
